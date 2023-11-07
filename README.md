@@ -1,4 +1,4 @@
-# SmartCityIntegrationSample
+# Smart City Integration Sample
 A sample Implementation of Smart city applications focusing on interoperability
 
 Interoperability and cross-communication lie at the heart of smart city development, enabling seamless integration, efficient resource management, and enhanced services for citizens. Overcoming challenges through the adoption of open standards, data governance, collaboration, and technological solutions can pave the way for successful interoperability. By embracing these strategies, cities can harness the power of integration, creating a holistic ecosystem where diverse systems work together towards a sustainable, connected, and citizen-centric future.
